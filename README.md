@@ -1,4 +1,4 @@
-Boris Bikes - Version 1 (19/01/2016) - Designed to run on Ruby
+Boris Bikes - Version 1 (19/01/2016 @ 1:57PM GMT) - Designed to run on Ruby
 
 Written by Mat Drake and Alain Lemaire
 
